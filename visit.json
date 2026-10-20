@@ -21,11 +21,12 @@
   ],
   "proof": "Actual token7 SVG directly rendered to JPEG; SVG originals included.",
   "receipts": "receipts.json",
-  "claimStatus": "confirmed_onchain",
+  "claimStatus": "confirmed_and_indexed",
   "onChainClaimId": 3642,
   "claimTransaction": "0x4c9588f6e3da2dfde2f69f3b7bee2d5ebd92bbd6e388d2390fc56a9821834435",
   "claimFeeWei": "23865749760963",
   "campaignTotalWei": "2632127060808943",
   "campaignTotalEth": "0.002632127060808943",
-  "approxCampaignUsd": "6.40977107910717496351399369"
+  "approxCampaignUsd": "6.40977107910717496351399369",
+  "frontendClaimId": 8958
 }

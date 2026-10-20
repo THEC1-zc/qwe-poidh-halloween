@@ -28,6 +28,7 @@
     "claimTransaction": "0x4c9588f6e3da2dfde2f69f3b7bee2d5ebd92bbd6e388d2390fc56a9821834435",
     "onChainClaimId": "3642",
     "proofUri": "https://raw.githubusercontent.com/THEC1-zc/qwe-poidh-halloween/04f4f659c5010b12041b026dac4cd748b379f6f5/base-1496/proof.jpg",
-    "status": "confirmed_index_check_pending"
+    "status": "confirmed_and_indexed",
+    "frontendClaimId": 8958
   }
 }
