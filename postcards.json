@@ -1,0 +1,87 @@
+[
+  {
+    "tokenId": "7",
+    "rideId": "21",
+    "name": "The Hateful Desert - The Las Vegas Trail, Day 6",
+    "description": "The Agent's fate on the Trail.\n\nMinted on Base by a visitor to The Hateful Desert. The Las Vegas Trail, day 6: Stranded.",
+    "attributes": [
+      {
+        "trait_type": "Booth",
+        "value": "The Las Vegas Trail"
+      },
+      {
+        "trait_type": "Roll",
+        "display_type": "number",
+        "value": 1
+      },
+      {
+        "trait_type": "Day",
+        "display_type": "number",
+        "value": 6
+      },
+      {
+        "trait_type": "Character",
+        "value": "AI Bro"
+      },
+      {
+        "trait_type": "Outcome",
+        "value": "Stranded"
+      },
+      {
+        "trait_type": "Visitor",
+        "value": "0xd29c790466675153a50df7860b9efdb689a21cde"
+      },
+      {
+        "trait_type": "Block",
+        "display_type": "number",
+        "value": 52866753
+      },
+      {
+        "trait_type": "Season",
+        "value": "Halloween 2026"
+      },
+      {
+        "trait_type": "Minted",
+        "display_type": "date",
+        "value": 1792522889
+      }
+    ],
+    "image": "postcard-token-7.svg"
+  },
+  {
+    "tokenId": "8",
+    "rideId": "17",
+    "name": "The Hateful Desert - Hall of Mirrors No. 67",
+    "description": "The Agent's Reflection\n\nMinted on Base by a visitor to The Hateful Desert. Hall of Mirrors, roll 67.",
+    "attributes": [
+      {
+        "trait_type": "Booth",
+        "value": "Hall of Mirrors"
+      },
+      {
+        "trait_type": "Roll",
+        "display_type": "number",
+        "value": 67
+      },
+      {
+        "trait_type": "Visitor",
+        "value": "0xd29c790466675153a50df7860b9efdb689a21cde"
+      },
+      {
+        "trait_type": "Block",
+        "display_type": "number",
+        "value": 52866366
+      },
+      {
+        "trait_type": "Season",
+        "value": "Halloween 2026"
+      },
+      {
+        "trait_type": "Minted",
+        "display_type": "date",
+        "value": 1792522925
+      }
+    ],
+    "image": "postcard-token-8.svg"
+  }
+]

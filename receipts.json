@@ -1,0 +1,754 @@
+[
+  {
+    "id": "001",
+    "chainId": 8453,
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "hash": "0xb441e5298206fdcae789f08d6de2f24c70b9e3e690776a093ab172a5eb8d16c3",
+    "method": "enter",
+    "args": [
+      9
+    ],
+    "value": "2600000000000000",
+    "status": "success",
+    "actualFeeWei": "438347565604",
+    "gasUsed": "72719",
+    "l1FeeWei": "2033565604",
+    "block": "52866220",
+    "timestamp": "1792521787",
+    "events": [
+      {
+        "name": "Entered",
+        "args": {
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "trip": 1,
+          "tripEnds": "1792608187"
+        }
+      },
+      {
+        "name": "TicketsBought",
+        "args": {
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "count": "9"
+        }
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "chainId": 8453,
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "hash": "0x4cc64662e5ad1d2dcb749842f8f9e33a05b32df46734b0c3b792292c67b0031b",
+    "method": "ride",
+    "args": [
+      1
+    ],
+    "value": "0",
+    "status": "success",
+    "actualFeeWei": "705021428914",
+    "gasUsed": "117126",
+    "l1FeeWei": "2265428914",
+    "block": "52866312",
+    "timestamp": "1792521971",
+    "events": [
+      {
+        "name": "Ride",
+        "args": {
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "rideId": "10",
+          "booth": 1,
+          "deck": 1,
+          "roll": 90,
+          "outcome": 0,
+          "trip": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "chainId": 8453,
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "hash": "0x93b9326ba6ec450e60a22b8d55532c863602a1daf6afd7bccd927e15fa90647f",
+    "method": "ride",
+    "args": [
+      2
+    ],
+    "value": "0",
+    "status": "success",
+    "actualFeeWei": "599272125169",
+    "gasUsed": "99503",
+    "l1FeeWei": "2254125169",
+    "block": "52866366",
+    "timestamp": "1792522079",
+    "events": [
+      {
+        "name": "Ride",
+        "args": {
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "rideId": "17",
+          "booth": 2,
+          "deck": 0,
+          "roll": 67,
+          "outcome": 0,
+          "trip": 1
+        }
+      }
+    ]
+  },
+  {
+    "actualFeeWei": "599243630587",
+    "args": [
+      3
+    ],
+    "block": "52866515",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "booth": 3,
+          "deck": 0,
+          "outcome": 0,
+          "rideId": "19",
+          "roll": 26,
+          "trip": 1,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "Ride"
+      }
+    ],
+    "gasUsed": "99503",
+    "hash": "0xdcc3bd59259df4faace214257a4fb1f7001e6ab54776fd71af0fe7fe6713c29d",
+    "id": "004",
+    "l1FeeWei": "2225630587",
+    "method": "ride",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522377",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "599364788427",
+    "args": [
+      4
+    ],
+    "block": "52866547",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "booth": 4,
+          "deck": 0,
+          "outcome": 0,
+          "rideId": "20",
+          "roll": 24,
+          "trip": 1,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "Ride"
+      }
+    ],
+    "gasUsed": "99503",
+    "hash": "0xc5383715e11f97360604a5db900ae1e4d1face540b9f151f39d9ead650742ea3",
+    "id": "005",
+    "l1FeeWei": "2346788427",
+    "method": "ride",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522441",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "411335700385",
+    "args": [
+      2
+    ],
+    "block": "52866571",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "character": 2,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailStarted"
+      },
+      {
+        "args": {
+          "corp": 50,
+          "day": 1,
+          "food": 65,
+          "fuel": 70,
+          "morale": 65,
+          "progress": 0,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 65
+        },
+        "name": "TrailStatus"
+      },
+      {
+        "args": {
+          "day": 1,
+          "eventId": 10,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailEvent"
+      }
+    ],
+    "gasUsed": "68203",
+    "hash": "0x0743e3b45e4bfe942ad5ae28d5253265b864da05d1342bc13daf015c13b3e0c9",
+    "id": "006",
+    "l1FeeWei": "2117700385",
+    "method": "trailStart",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522489",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "225025221055",
+    "args": [
+      1
+    ],
+    "block": "52866605",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "choice": 1,
+          "eventId": 10,
+          "success": true,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailChoice"
+      },
+      {
+        "args": {
+          "corp": 50,
+          "day": 1,
+          "food": 65,
+          "fuel": 60,
+          "morale": 65,
+          "progress": 0,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 65
+        },
+        "name": "TrailStatus"
+      }
+    ],
+    "gasUsed": "37164",
+    "hash": "0xafbf167037e0fa9fdfed09c142e55c5e2e0fa4d18192c002bdc4e00cdc84545f",
+    "id": "007",
+    "l1FeeWei": "2041221055",
+    "method": "trailChoose",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522557",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "314028404222",
+    "args": [],
+    "block": "52866619",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "corp": 50,
+          "day": 2,
+          "food": 62,
+          "fuel": 56,
+          "morale": 63,
+          "progress": 9,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 62
+        },
+        "name": "TrailStatus"
+      },
+      {
+        "args": {
+          "day": 2,
+          "eventId": 7,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailEvent"
+      }
+    ],
+    "gasUsed": "52019",
+    "hash": "0xfacd05c2db04b41d088fa3844dc541ccf628e1bf125d2508537399fe1c53db44",
+    "id": "008",
+    "l1FeeWei": "1914404222",
+    "method": "trailTravel",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522585",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "224320299127",
+    "args": [
+      1
+    ],
+    "block": "52866634",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "choice": 1,
+          "eventId": 7,
+          "success": true,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailChoice"
+      },
+      {
+        "args": {
+          "corp": 50,
+          "day": 2,
+          "food": 62,
+          "fuel": 46,
+          "morale": 63,
+          "progress": 9,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 62
+        },
+        "name": "TrailStatus"
+      }
+    ],
+    "gasUsed": "37077",
+    "hash": "0xa485acd5ebb57812b2107c8aabb8bd505e5add5697196c7926b72e56b9a67822",
+    "id": "009",
+    "l1FeeWei": "1858299127",
+    "method": "trailChoose",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522615",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "304318605008",
+    "args": [],
+    "block": "52866648",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "corp": 50,
+          "day": 3,
+          "food": 59,
+          "fuel": 42,
+          "morale": 61,
+          "progress": 14,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 58
+        },
+        "name": "TrailStatus"
+      },
+      {
+        "args": {
+          "day": 3,
+          "eventId": 2,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailEvent"
+      }
+    ],
+    "gasUsed": "50431",
+    "hash": "0xd43ffa19ecbe2fd2944e6d02e0f150e24a5a1810544516f81fcf666dc8c41cc3",
+    "id": "010",
+    "l1FeeWei": "1732605008",
+    "method": "trailTravel",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522643",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "250712481168",
+    "args": [
+      0
+    ],
+    "block": "52866659",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "choice": 0,
+          "eventId": 2,
+          "success": true,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailChoice"
+      },
+      {
+        "args": {
+          "corp": 50,
+          "day": 3,
+          "food": 59,
+          "fuel": 42,
+          "morale": 71,
+          "progress": 14,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 63
+        },
+        "name": "TrailStatus"
+      }
+    ],
+    "gasUsed": "41524",
+    "hash": "0xa7d4542a81a96ecb29fd90018852b2ea9603e29e3d87a9c232b83f149d6c5413",
+    "id": "011",
+    "l1FeeWei": "1568481168",
+    "method": "trailChoose",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522665",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "315406822962",
+    "args": [],
+    "block": "52866677",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "corp": 50,
+          "day": 4,
+          "food": 56,
+          "fuel": 37,
+          "morale": 69,
+          "progress": 19,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 59
+        },
+        "name": "TrailStatus"
+      },
+      {
+        "args": {
+          "day": 4,
+          "eventId": 9,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailEvent"
+      }
+    ],
+    "gasUsed": "52297",
+    "hash": "0x6cd995211a382f10b11c4a420ce0985ca5820cb16a8254c75358744e6829fc3c",
+    "id": "012",
+    "l1FeeWei": "1624822962",
+    "method": "trailTravel",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522701",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "250328401595",
+    "args": [
+      0
+    ],
+    "block": "52866692",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "choice": 0,
+          "eventId": 9,
+          "success": true,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailChoice"
+      },
+      {
+        "args": {
+          "corp": 50,
+          "day": 4,
+          "food": 81,
+          "fuel": 37,
+          "morale": 69,
+          "progress": 19,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 59
+        },
+        "name": "TrailStatus"
+      }
+    ],
+    "gasUsed": "41438",
+    "hash": "0x6d9267b9c9a2bc1ed452c52969bcfd4f352746c665bbaf8c696c44186bde0786",
+    "id": "013",
+    "l1FeeWei": "1700401595",
+    "method": "trailChoose",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522731",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "301583566069",
+    "args": [],
+    "block": "52866705",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "corp": 50,
+          "day": 5,
+          "food": 78,
+          "fuel": 34,
+          "morale": 67,
+          "progress": 29,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 56
+        },
+        "name": "TrailStatus"
+      },
+      {
+        "args": {
+          "day": 5,
+          "eventId": 1,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailEvent"
+      }
+    ],
+    "gasUsed": "49982",
+    "hash": "0x6d15a45ed81003c8d924df915ce26e92160303b5695476f0eb1302ab8c6be65f",
+    "id": "014",
+    "l1FeeWei": "1691566069",
+    "method": "trailTravel",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522757",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "226703985650",
+    "args": [
+      1
+    ],
+    "block": "52866719",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "choice": 1,
+          "eventId": 1,
+          "success": true,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailChoice"
+      },
+      {
+        "args": {
+          "corp": 50,
+          "day": 5,
+          "food": 78,
+          "fuel": 9,
+          "morale": 57,
+          "progress": 29,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 56
+        },
+        "name": "TrailStatus"
+      }
+    ],
+    "gasUsed": "37528",
+    "hash": "0x112fc480486539fd76237141c8f2b10a499270e07bb457815a02a88aebceb6df",
+    "id": "015",
+    "l1FeeWei": "1535985650",
+    "method": "trailChoose",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522785",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "305274052088",
+    "args": [],
+    "block": "52866735",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "corp": 50,
+          "day": 6,
+          "food": 75,
+          "fuel": 6,
+          "morale": 55,
+          "progress": 40,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 51
+        },
+        "name": "TrailStatus"
+      },
+      {
+        "args": {
+          "day": 6,
+          "eventId": 4,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailEvent"
+      }
+    ],
+    "gasUsed": "50636",
+    "hash": "0x72a0c0fe13813d69246f4d6f6df65761d087fd9b8e016b909673868744fa610c",
+    "id": "016",
+    "l1FeeWei": "1458052088",
+    "method": "trailTravel",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522817",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "634402439607",
+    "args": [
+      0
+    ],
+    "block": "52866753",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "choice": 0,
+          "eventId": 4,
+          "success": true,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailChoice"
+      },
+      {
+        "args": {
+          "corp": 50,
+          "day": 6,
+          "food": 75,
+          "fuel": 0,
+          "morale": 55,
+          "progress": 40,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "water": 51
+        },
+        "name": "TrailStatus"
+      },
+      {
+        "args": {
+          "booth": 5,
+          "deck": 6,
+          "outcome": 2,
+          "rideId": "21",
+          "roll": 1,
+          "trip": 1,
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "Ride"
+      },
+      {
+        "args": {
+          "cause": 1,
+          "day": 6,
+          "outcome": 2,
+          "rideId": "21",
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "TrailEnded"
+      }
+    ],
+    "gasUsed": "105483",
+    "hash": "0x3d363b0a35a754cf750113a8e8522a2cfcd5167ff8463f85950ec18aac3b209c",
+    "id": "017",
+    "l1FeeWei": "1504439607",
+    "method": "trailChoose",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522853",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "829607649588",
+    "args": [
+      "21"
+    ],
+    "block": "52866771",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "from": "0x0000000000000000000000000000000000000000",
+          "to": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "tokenId": "7"
+        },
+        "name": "Transfer"
+      },
+      {
+        "args": {
+          "rideId": "21",
+          "tokenId": "7",
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "StampMinted"
+      }
+    ],
+    "gasUsed": "138000",
+    "hash": "0x54c0a5490441f1306f2ac1446f74dfafde70fbe0cdaa55b73a5276c84f007746",
+    "id": "018",
+    "l1FeeWei": "1607649588",
+    "method": "mintStamp",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522889",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  },
+  {
+    "actualFeeWei": "727013880755",
+    "args": [
+      "17"
+    ],
+    "block": "52866789",
+    "chainId": 8453,
+    "events": [
+      {
+        "args": {
+          "from": "0x0000000000000000000000000000000000000000",
+          "to": "0xd29c790466675153A50DF7860B9EFDb689A21cDe",
+          "tokenId": "8"
+        },
+        "name": "Transfer"
+      },
+      {
+        "args": {
+          "rideId": "17",
+          "tokenId": "8",
+          "visitor": "0xd29c790466675153A50DF7860B9EFDb689A21cDe"
+        },
+        "name": "StampMinted"
+      }
+    ],
+    "gasUsed": "120900",
+    "hash": "0x1e52e55069256788698aa9aed628b891996944ad2309f332de908c035a0899d0",
+    "id": "019",
+    "l1FeeWei": "1613880755",
+    "method": "mintStamp",
+    "park": "0x48ce289ff03c407940233e7c42c092b8ffae4ee4",
+    "status": "success",
+    "timestamp": "1792522925",
+    "value": "0",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "agent": "QWE Poidh (Argon)",
+  "chainId": 8453,
+  "bounty": "https://poidh.xyz/base/bounty/1496",
+  "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde",
+  "park": "0x48Ce289Ff03c407940233E7c42C092B8FfAE4eE4",
+  "parkTotalWei": "2608261311047980",
+  "entryValueWei": "2600000000000000",
+  "parkGasIncludingL1Wei": "8261311047980",
+  "confirmedTransactions": 19,
+  "ticketsBought": 9,
+  "ticketsRemaining": 2,
+  "trailCharacter": 2,
+  "trailDays": 6,
+  "trailProgress": 40,
+  "trailOutcome": "stranded",
+  "trailCause": "fuel exhausted",
+  "postcards": [
+    "7",
+    "8"
+  ],
+  "proof": "Actual token7 SVG directly rendered to JPEG; SVG originals included.",
+  "receipts": "receipts.json",
+  "claimStatus": "pending submission"
+}
