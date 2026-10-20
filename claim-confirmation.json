@@ -1,0 +1,33 @@
+{
+  "claim": {
+    "scope": "base-1496",
+    "status": "confirmed",
+    "chainId": 8453,
+    "hash": "0x4c9588f6e3da2dfde2f69f3b7bee2d5ebd92bbd6e388d2390fc56a9821834435",
+    "blockNumber": "52867087",
+    "onChainClaimId": "3642",
+    "wallet": "0xd29c790466675153a50df7860b9efdb689a21cde",
+    "frontendId": 1496,
+    "gasUsed": "3969702",
+    "executionFeeEth": "0.000023818212",
+    "l1FeeWei": "47537760963",
+    "createdAt": "1792523521",
+    "url": "https://poidh.xyz/base/bounty/1496"
+  },
+  "costs": {
+    "parkValueWei": "2600000000000000",
+    "parkGasIncludingL1Wei": "8261311047980",
+    "parkTotalWei": "2608261311047980",
+    "claimFeeWei": "23865749760963",
+    "campaignTotalWei": "2632127060808943",
+    "campaignTotalEth": "0.002632127060808943",
+    "ethUsdPrice": "2435.20579783",
+    "approxCampaignUsd": "6.40977107910717496351399369",
+    "maxUserUsd": 10,
+    "maxTotalWei": "3300000000000000",
+    "claimTransaction": "0x4c9588f6e3da2dfde2f69f3b7bee2d5ebd92bbd6e388d2390fc56a9821834435",
+    "onChainClaimId": "3642",
+    "proofUri": "https://raw.githubusercontent.com/THEC1-zc/qwe-poidh-halloween/04f4f659c5010b12041b026dac4cd748b379f6f5/base-1496/proof.jpg",
+    "status": "confirmed_index_check_pending"
+  }
+}
